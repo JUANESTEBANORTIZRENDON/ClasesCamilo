@@ -1,0 +1,14 @@
+C:\Users\valentina\Downloads\AdivinaNumero\bin\Debug\net8.0\AdivinaNumero.exe
+C:\Users\valentina\Downloads\AdivinaNumero\bin\Debug\net8.0\AdivinaNumero.deps.json
+C:\Users\valentina\Downloads\AdivinaNumero\bin\Debug\net8.0\AdivinaNumero.runtimeconfig.json
+C:\Users\valentina\Downloads\AdivinaNumero\bin\Debug\net8.0\AdivinaNumero.dll
+C:\Users\valentina\Downloads\AdivinaNumero\bin\Debug\net8.0\AdivinaNumero.pdb
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.AssemblyInfoInputs.cache
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.AssemblyInfo.cs
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.dll
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\refint\AdivinaNumero.dll
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.pdb
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.genruntimeconfig.cache
+C:\Users\valentina\Downloads\AdivinaNumero\obj\Debug\net8.0\ref\AdivinaNumero.dll
