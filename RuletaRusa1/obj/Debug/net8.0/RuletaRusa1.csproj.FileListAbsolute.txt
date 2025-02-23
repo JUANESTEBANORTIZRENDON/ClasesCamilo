@@ -1,0 +1,15 @@
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\bin\Debug\net8.0\RuletaRusa1.exe
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\bin\Debug\net8.0\RuletaRusa1.deps.json
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\bin\Debug\net8.0\RuletaRusa1.runtimeconfig.json
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\bin\Debug\net8.0\RuletaRusa1.dll
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\bin\Debug\net8.0\RuletaRusa1.pdb
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\RuletaRusa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\RuletaRusa1.AssemblyInfoInputs.cache
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\RuletaRusa1.AssemblyInfo.cs
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\RuletaRusa1.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\RuletaRusa1.sourcelink.json
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\RuletaRusa1.dll
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\refint\RuletaRusa1.dll
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\RuletaRusa1.pdb
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\RuletaRusa1.genruntimeconfig.cache
+C:\Users\valentina\Downloads\Poo\RuletaRusa1\obj\Debug\net8.0\ref\RuletaRusa1.dll

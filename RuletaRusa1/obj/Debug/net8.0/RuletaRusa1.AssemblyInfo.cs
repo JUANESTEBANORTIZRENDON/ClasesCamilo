@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RuletaRusa1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b0abd79294ce3f8412a54bd250ad37d060cca8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RuletaRusa1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RuletaRusa1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

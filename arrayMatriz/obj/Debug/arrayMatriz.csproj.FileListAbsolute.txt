@@ -1,0 +1,7 @@
+C:\Users\valentina\Downloads\Poo\arrayMatriz\bin\Debug\arrayMatriz.exe.config
+C:\Users\valentina\Downloads\Poo\arrayMatriz\bin\Debug\arrayMatriz.exe
+C:\Users\valentina\Downloads\Poo\arrayMatriz\bin\Debug\arrayMatriz.pdb
+C:\Users\valentina\Downloads\Poo\arrayMatriz\obj\Debug\arrayMatriz.csproj.AssemblyReference.cache
+C:\Users\valentina\Downloads\Poo\arrayMatriz\obj\Debug\arrayMatriz.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Downloads\Poo\arrayMatriz\obj\Debug\arrayMatriz.exe
+C:\Users\valentina\Downloads\Poo\arrayMatriz\obj\Debug\arrayMatriz.pdb

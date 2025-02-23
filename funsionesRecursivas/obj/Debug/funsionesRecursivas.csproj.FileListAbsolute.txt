@@ -1,0 +1,7 @@
+C:\Users\valentina\Downloads\Poo\funsionesRecursivas\bin\Debug\funsionesRecursivas.exe.config
+C:\Users\valentina\Downloads\Poo\funsionesRecursivas\bin\Debug\funsionesRecursivas.exe
+C:\Users\valentina\Downloads\Poo\funsionesRecursivas\bin\Debug\funsionesRecursivas.pdb
+C:\Users\valentina\Downloads\Poo\funsionesRecursivas\obj\Debug\funsionesRecursivas.csproj.AssemblyReference.cache
+C:\Users\valentina\Downloads\Poo\funsionesRecursivas\obj\Debug\funsionesRecursivas.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Downloads\Poo\funsionesRecursivas\obj\Debug\funsionesRecursivas.exe
+C:\Users\valentina\Downloads\Poo\funsionesRecursivas\obj\Debug\funsionesRecursivas.pdb
