@@ -1,0 +1,7 @@
+C:\Users\valentina\Downloads\Poo\SumaDiagonalMatriz\bin\Debug\SumaDiagonalMatriz.exe.config
+C:\Users\valentina\Downloads\Poo\SumaDiagonalMatriz\bin\Debug\SumaDiagonalMatriz.exe
+C:\Users\valentina\Downloads\Poo\SumaDiagonalMatriz\bin\Debug\SumaDiagonalMatriz.pdb
+C:\Users\valentina\Downloads\Poo\SumaDiagonalMatriz\obj\Debug\SumaDiagonalMatriz.csproj.AssemblyReference.cache
+C:\Users\valentina\Downloads\Poo\SumaDiagonalMatriz\obj\Debug\SumaDiagonalMatriz.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Downloads\Poo\SumaDiagonalMatriz\obj\Debug\SumaDiagonalMatriz.exe
+C:\Users\valentina\Downloads\Poo\SumaDiagonalMatriz\obj\Debug\SumaDiagonalMatriz.pdb

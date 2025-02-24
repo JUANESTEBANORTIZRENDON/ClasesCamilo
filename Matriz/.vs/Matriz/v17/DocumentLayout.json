@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\valentina\\Downloads\\Poo\\funsionesRecursivas\\",
+  "WorkspaceRootPath": "C:\\Users\\valentina\\Downloads\\Poo\\Matriz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB6FC1DA-19E7-4E79-845F-83B80D496E1B}|funsionesRecursivas.csproj|c:\\users\\valentina\\downloads\\poo\\funsionesrecursivas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6FC1DA-19E7-4E79-845F-83B80D496E1B}|funsionesRecursivas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{389FEFE0-3424-42ED-A1AA-25230381C688}|Matriz.csproj|c:\\users\\valentina\\downloads\\poo\\matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389FEFE0-3424-42ED-A1AA-25230381C688}|Matriz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\valentina\\Downloads\\Poo\\funsionesRecursivas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\valentina\\Downloads\\Poo\\Matriz\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\valentina\\Downloads\\Poo\\funsionesRecursivas\\Program.cs",
+              "ToolTip": "C:\\Users\\valentina\\Downloads\\Poo\\Matriz\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:08:18.352Z",
+              "WhenOpened": "2025-02-23T21:34:33.21Z",
               "EditorCaption": ""
             }
           ]

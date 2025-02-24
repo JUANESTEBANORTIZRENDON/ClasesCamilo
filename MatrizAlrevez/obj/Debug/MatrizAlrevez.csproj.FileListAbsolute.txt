@@ -1,0 +1,7 @@
+C:\Users\valentina\Downloads\Poo\MatrizAlrevez\bin\Debug\MatrizAlrevez.exe.config
+C:\Users\valentina\Downloads\Poo\MatrizAlrevez\bin\Debug\MatrizAlrevez.exe
+C:\Users\valentina\Downloads\Poo\MatrizAlrevez\bin\Debug\MatrizAlrevez.pdb
+C:\Users\valentina\Downloads\Poo\MatrizAlrevez\obj\Debug\MatrizAlrevez.csproj.AssemblyReference.cache
+C:\Users\valentina\Downloads\Poo\MatrizAlrevez\obj\Debug\MatrizAlrevez.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Downloads\Poo\MatrizAlrevez\obj\Debug\MatrizAlrevez.exe
+C:\Users\valentina\Downloads\Poo\MatrizAlrevez\obj\Debug\MatrizAlrevez.pdb
